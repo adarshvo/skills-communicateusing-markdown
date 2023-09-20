@@ -1,2 +1,1 @@
-# output
- ![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
